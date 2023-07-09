@@ -19,7 +19,7 @@ The scoring updates as you continue to cross the pipes.
         <img width="284" alt="image" src="https://github.com/pranshubajaj/SwishyFish/assets/131748246/ae5ad671-8021-4288-b903-65147542f50c">
 </br></br></br>
 Press 'p' key to pause the game and 's' key to resume.</br></br></br>
-        <img width="287" alt="image" src="https://github.com/pranshubajaj/SwishyFish/assets/131748246/563b629e-b12d-447b-a782-ebf4d3a0f2e6">
+        <img width="288" alt="image" src="https://github.com/pranshubajaj/SwishyFish/assets/131748246/bca5f8b4-d4af-490a-88bf-a42218c99d9a">
 </br></br></br>When you collide with a pipe, the game ends.</br></br></br>
 To play again press 'space' or 'up' key.</br></br>
 To exit press 'esc' key or click the 'x' button.</br></br></br></br>
