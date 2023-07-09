@@ -8,5 +8,23 @@
         <img width="285" alt="image" src="https://github.com/pranshubajaj/SwishyFish/assets/131748246/159cd9e2-2d54-4cf5-baa8-29c8a26e01bc">
 </br></br></br>
         <img width="284" alt="image" src="https://github.com/pranshubajaj/SwishyFish/assets/131748246/c7bff684-2168-4d1a-a120-de561061ecc9">
-           
-Need to have Pygame module of Python installed
+</br></br></br>
+Press 'space' or 'up' key to start and play the game.
+</br></br></br>
+        <img width="287" alt="image" src="https://github.com/pranshubajaj/SwishyFish/assets/131748246/0011a47c-e24f-41fd-9a8f-3e84a3fdf644">
+        &emsp;&emsp;&emsp;&emsp;&emsp;<img width="286" alt="image" src="https://github.com/pranshubajaj/SwishyFish/assets/131748246/4b790cd8-f46f-4000-9173-ea3067351ea5">
+</br></br></br>
+The scoring updates as you continue to cross the pipes.
+</br></br></br>
+        <img width="284" alt="image" src="https://github.com/pranshubajaj/SwishyFish/assets/131748246/ae5ad671-8021-4288-b903-65147542f50c">
+</br></br></br>
+Press 'p' key to pause the game and 's' key to resume.</br></br></br>
+        <img width="287" alt="image" src="https://github.com/pranshubajaj/SwishyFish/assets/131748246/563b629e-b12d-447b-a782-ebf4d3a0f2e6">
+</br></br></br>When you collide with a pipe, the game ends.</br></br></br>
+To play again press 'space' or 'up' key.</br></br>
+To exit press 'esc' key or click the 'x' button.</br></br></br></br>
+<b>NOTE:</b> Need to install Pygame module of Python to run it</br></br>
+You can install Pygame by running the following command on terminal/command prompt :</br>
+<b><i>pip3 install pygame</i></b>
+
+
