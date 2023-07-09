@@ -16,7 +16,7 @@ Press 'space' or 'up' key to start and play the game.
 </br></br></br>
 The scoring updates as you continue to cross the pipes.
 </br></br></br>
-        <img width="284" alt="image" src="https://github.com/pranshubajaj/SwishyFish/assets/131748246/ae5ad671-8021-4288-b903-65147542f50c">
+        <img width="285" alt="image" src="https://github.com/pranshubajaj/SwishyFish/assets/131748246/59f809f5-be07-4444-8eee-a2705584c58f">
 </br></br></br>
 Press 'p' key to pause the game and 's' key to resume.</br></br></br>
         <img width="288" alt="image" src="https://github.com/pranshubajaj/SwishyFish/assets/131748246/bca5f8b4-d4af-490a-88bf-a42218c99d9a">
