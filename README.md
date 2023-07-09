@@ -12,7 +12,7 @@
 Press 'space' or 'up' key to start and play the game.
 </br></br></br>
         <img width="287" alt="image" src="https://github.com/pranshubajaj/SwishyFish/assets/131748246/0011a47c-e24f-41fd-9a8f-3e84a3fdf644">
-        &emsp;&emsp;&emsp;&emsp;&emsp;<img width="286" alt="image" src="https://github.com/pranshubajaj/SwishyFish/assets/131748246/4b790cd8-f46f-4000-9173-ea3067351ea5">
+        &emsp;&emsp;&emsp;&emsp;&emsp;<img width="287" alt="image" src="https://github.com/pranshubajaj/SwishyFish/assets/131748246/aee5e7d7-85f5-494b-a56e-269983739eab">
 </br></br></br>
 The scoring updates as you continue to cross the pipes.
 </br></br></br>
